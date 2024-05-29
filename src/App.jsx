@@ -1,9 +1,11 @@
+import Navbar from "./components/shared/Navbar"
+
 function App() {
 
 
   return (
     <>
-      <p>Hi</p>
+      <Navbar/>
     </>
   )
 }
